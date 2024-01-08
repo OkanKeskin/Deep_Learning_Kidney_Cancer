@@ -21,7 +21,7 @@
 
 Bu projenin temel amacı, böbrek kanseri tanısı için görüntü sınıflandırma yapmaktır. Projede kullanılacak veri seti, normal ve tümörlü böbrek görüntülerini içermektedir. Toplamda 10,000 adet görüntü içeren bu veri seti üzerinde bir derin öğrenme modeli oluşturulacak ve böbrek kanseri teşhisinde etkili bir sınıflandırma modeli geliştirilecektir.
 
-Veri setindeki normal ve tümörlü böbrek görüntülerinin detaylı bir incelemesi yapılarak, veri seti eğitim ve test seti olarak bölünmüştür. Veri ön işleme adımında, görüntülerin özellikleri standartlaştırılmıştır. Model, eğitim seti üzerinde eğitilmiş, eğitim süreci izlenerek doğrulama seti üzerinde performans değerlendirilmiş ve overfitting'i önlemek adına dropout ve batch normalization gibi teknikler kullanılmıştır. Son olarak, modelin test seti üzerindeki performansı hassasiyet, özgüllük, doğruluk gibi sınıflandırma metrikleriyle değerlendirilmiş ve elde edilen sonuçlar raporlanarak böbrek kanseri tanısı üzerindeki uygulamalar değerlendirilmiştir.
+Veri setindeki normal ve tümörlü böbrek görüntülerinin detaylı bir incelemesi yapılarak veri seti; eğitim, test ve doğrulama seti olarak bölünmüştür. Veri ön işleme adımında, görüntülerin özellikleri standartlaştırılmıştır. Model, eğitim seti üzerinde eğitilmiş, eğitim süreci izlenerek doğrulama seti üzerinde performans değerlendirilmiş ve overfitting'i önlemek adına dropout ve batch normalization gibi teknikler kullanılmıştır. Son olarak, modelin test seti üzerindeki performansı hassasiyet, özgüllük, doğruluk gibi sınıflandırma metrikleriyle değerlendirilmiş ve elde edilen sonuçlar raporlanarak böbrek kanseri tanısı üzerindeki uygulamalar değerlendirilmiştir.
 
 
 ---
