@@ -60,10 +60,14 @@ Veri setindeki normal ve tümörlü böbrek görüntülerinin detaylı bir incel
 
 - **CNN-1 Link :** [CNN-1](https://colab.research.google.com/drive/1cShrIANAewj10l5_6i3mrKl8ls_mWCQT?usp=sharing)
 - **CNN-2 Link :** [CNN-2](https://colab.research.google.com/drive/1NolI6x2DsRA4Qy60Qr7Z_EdBH-NkT08U?usp=sharing)
+  
 <br> 
+
 - **Transfer Learning-1 Link :** [Transfer Learning-1](https://colab.research.google.com/drive/133OqsvSOfk4aHDLxL9dRMQewckVfUI37?usp=sharing)
 - **Transfer Learning-2 Link :** [Transfer Learning-2](https://colab.research.google.com/drive/16XO-lDVrCd_dqbgH44AMBOWsBT4KKPmM?usp=sharing)
+  
 <br> 
+
 - **ANN-1 Link :** [ANN-1](https://colab.research.google.com/drive/1xj62iZZVT33vNg4sqo1cAMN7VucuBSEV?usp=sharing)
 - **ANN-2 Link :** [ANN-2](https://colab.research.google.com/drive/1RA9M4_OuzVPTufUf4mBT6oZFVkXSM5Oo?usp=sharing)
 
