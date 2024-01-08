@@ -1,4 +1,4 @@
-# Proje Başlığı
+# Kindey Cancer Deep Learning Model
 
 :information_source: **Dersin Kodu:** [YAZ20411](https://ebp.klu.edu.tr/Ders/dersDetay/YAZ20411/716026/tr)  
 :information_source: **Dersin Adı:** [DERİN ÖĞRENME](https://ebp.klu.edu.tr/Ders/dersDetay/YAZ20411/716026/tr)  
@@ -21,7 +21,7 @@
 
 Bu projenin temel amacı, böbrek kanseri tanısı için görüntü sınıflandırma yapmaktır. Projede kullanılacak veri seti, normal ve tümörlü böbrek görüntülerini içermektedir. Toplamda 10,000 adet görüntü içeren bu veri seti üzerinde bir derin öğrenme modeli oluşturulacak ve böbrek kanseri teşhisinde etkili bir sınıflandırma modeli geliştirilecektir.
 
-Veri setindeki normal ve tümörlü böbrek görüntülerinin detaylı bir incelemesi yapılarak veri seti; eğitim, test ve doğrulama seti olarak bölünmüştür. Veri ön işleme adımında, görüntülerin özellikleri standartlaştırılmıştır. Model, eğitim seti üzerinde eğitilmiş, eğitim süreci izlenerek doğrulama seti üzerinde performans değerlendirilmiş ve overfitting'i önlemek adına dropout ve batch normalization gibi teknikler kullanılmıştır. Son olarak, modelin test seti üzerindeki performansı hassasiyet, özgüllük, doğruluk gibi sınıflandırma metrikleriyle değerlendirilmiş ve elde edilen sonuçlar raporlanarak böbrek kanseri tanısı üzerindeki uygulamalar değerlendirilmiştir.
+Veri setindeki normal ve tümörlü böbrek görüntülerinin detaylı bir incelemesi yapılarak veri seti; eğitim, test ve doğrulama seti olarak bölünmüştür. Veri ön işleme adımında, görüntülerin özellikleri standartlaştırılmıştır. Model, eğitim seti üzerinde eğitilmiş, eğitim süreci izlenerek doğrulama seti üzerinde performans değerlendirilmiş ve overfitting'i önlemek adına dropout ve batch normalization ve early stopping gibi teknikler kullanılmıştır. Son olarak, modelin test seti üzerindeki performansı hassasiyet, duyarlılık, doğruluk ve f1 score gibi sınıflandırma metrikleriyle değerlendirilmiş ve elde edilen sonuçlar raporlanarak böbrek kanseri tanısı üzerindeki uygulamalar değerlendirilmiştir.
 
 
 ---
@@ -76,6 +76,9 @@ Veri setindeki normal ve tümörlü böbrek görüntülerinin detaylı bir incel
 ## Katkılar
 
 ### Projeyi yaparken bunlardan yararlandık;
+
+[Fatih Bal Github](https://github.com/balfatih)
+
 [Keras documentation: Keras 3 API documentation](https://keras.io/api/)
 
 [Hiperparametre Optimizasyonu](https://medium.com/bilişim-hareketi/hiperparametre-optimizasyonu-9ba0e7f32e6f)
