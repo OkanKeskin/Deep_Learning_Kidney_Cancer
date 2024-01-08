@@ -77,15 +77,25 @@ Veri setindeki normal ve tümörlü böbrek görüntülerinin detaylı bir incel
 
 ### Projeyi yaparken bunlardan yararlandık;
 [Keras documentation: Keras 3 API documentation](https://keras.io/api/)
+
 [Hiperparametre Optimizasyonu](https://medium.com/bilişim-hareketi/hiperparametre-optimizasyonu-9ba0e7f32e6f)
+
 [Öğrenme Aktarımı/Transfer Learning ](https://medium.com/novaresearchlab/öğrenme-aktarımı-transfer-learning-c0b8126965c4)
+
 [How to Avoid Overfitting in Deep Learning Neural Networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/)
+
 [Evrişimsel Sinir Ağında Niçin Dropout Kullanmamalısınız](https://medium.com/@tuncerergin/evrisimsel-sinir-aginda-nicin-dropout-kullanmamalisiniz-7e31941f8bb0) 
+
 [How to NOT overfit in Deep Learning ](https://dev.to/tecnosam/how-to-not-overfit-in-deep-learning-69a)
+
 [Easy Hyperparameter Tuning with Keras Tuner and TensorFlow ](https://pyimagesearch.com/2021/06/07/easy-hyperparameter-tuning-with-keras-tuner-and-tensorflow/)
+
 [What is Transfer Learning? ](https://www.geeksforgeeks.org/ml-introduction-to-transfer-learning/)
+
 [tf.keras.optimizers.legacy.Adam](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/legacy/Adam)
+
 [How To Create a Neural Network In Python – With And Without Keras](https://www.activestate.com/resources/quick-reads/how-to-create-a-neural-network-in-python-with-and-without-keras/)
+
 [Transfer Learning using CNN (VGG16)](https://www.turing.com/kb/transfer-learning-using-cnn-vgg16)
 
 
@@ -94,6 +104,9 @@ Veri setindeki normal ve tümörlü böbrek görüntülerinin detaylı bir incel
 ## İletişim
 
 Aslıgül Kaya asligul.kaya01@gmail.com | [Linkedin](https://www.linkedin.com/in/asligul-kaya-4ba7091b9/)
+
 Miray İpekli mirayipekli@gmail.com | [Linkedin](https://www.linkedin.com/in/miray-ipekli/)
+
 Okan Keskin okannkeskn@gmail.com | [Linkedin](https://www.linkedin.com/in/okannkeskn/)
+
 Yiğitcan Dursun ygtcan2002@hotmail.com | [Linkedin](https://www.linkedin.com/in/yiğitcan-dursun-7ba6451aa/)
